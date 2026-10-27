@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Development+%7C+AI%2FML;450%2B+LeetCode+Problems+Solved;Building+Projects+%F0%9F%9A%80;Learning.+Building.+Improving.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Development+%7C+AI%2FML;450%2B+LeetCode+Problems+Solved;Building+Projects+%F0%9F%9A%80;Learn.+Build.+Improve.+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,136 +27,154 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jai+Thawal+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI%2FML+Developer+%F0%9F%A4%96;450%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Turning+Ideas+Into+Projects+%F0%9F%9A%80" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jai+Thawal+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI%2FML+Developer+%F0%9F%A4%96;450%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="About Me" />
 </p>
 
 ```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   $ whoami                                                 │
-│   └─ Jai Thawal                                            │
-│                                                            │
-│   $ role                                                   │
-│   ├─ Software Developer                                    │
-│   └─ AI/ML Developer                                       │
-│                                                            │
-│   $ education                                              │
-│   └─ B.Tech CSE (AI/ML)                                    │
-│                                                            │
-│   $ interests                                              │
-│   ├─ Data Structures & Algorithms                          │
-│   ├─ Full-Stack Development                                │
-│   ├─ Artificial Intelligence & Machine Learning            │
-│   └─ Building Real-World Applications                      │
-│                                                            │
-│   $ tech_focus                                             │
-│   ├─ C++ & Problem Solving                                 │
-│   ├─ React & Tailwind                    │
-│   ├─ Python & FastAPI                                      │
-│   └─ Artificial Intelligence & Machine Learning                         │
-│                                                            │
-│   $ mission                                                │
-│   └─ Build useful software and keep improving every day    │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│  $ whoami                                                │
+│  └─ Jai Thawal                                           │
+│                                                          │
+│  $ role                                                  │
+│  ├─ Software Developer                                   │
+│  └─ AI/ML Developer                                      │
+│                                                          │
+│  $ education                                             │
+│  └─ B.Tech CSE (AI/ML)                                   │
+│                                                          │
+│  $ interests                                             │
+│  ├─ Data Structures & Algorithms                         │
+│  ├─ Frontend & Backend Development                       │
+│  ├─ Artificial Intelligence & Machine Learning           │
+│  └─ Building Real-World Projects                         │
+│                                                          │
+│  $ currently_learning                                    │
+│  ├─ Advanced DSA                                         │
+│  ├─ React & FastAPI                                      │
+│  ├─ PostgreSQL & REST APIs                               │
+│  └─ Machine Learning & Generative AI                     │
+│                                                          │
+│  $ mission                                               │
+│  └─ Turn ideas into useful software                      │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
 
 ### 🎯 Current Focus
 
 <p align="center">
-  `DSA` → `Full-Stack Development` → `AI/ML` → `Real-World Projects`
+  <code>DSA</code> → <code>Full-Stack Development</code> → <code>AI/ML</code> → <code>Real-World Projects</code>
 </p>
 
-- Strengthening problem-solving skills through LeetCode.
-- Building responsive web applications with React.
-- Exploring Python, FastAPI, REST APIs, and PostgreSQL.
-- Learning machine learning concepts and applying them in projects.
-- Exploring LLMs and AI-powered application development.
+- Solving algorithmic problems using C++.
+- Building responsive interfaces with React and Tailwind CSS.
+- Learning backend development with Python and FastAPI.
+- Working with relational databases, including PostgreSQL and MySQL.
+- Exploring machine learning and generative AI.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-<p align="center">
-  <b>💻 Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
-</p>
-
-<p align="center">
-  <b>🌐 Frontend Development</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-<p align="center">
-  <b>⚙️ Backend & Databases</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,mongodb" />
-</p>
-
-<p align="center">
-  <b>🤖 AI / ML</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
-</p>
-
-<p align="center">
-  <b>🧰 Tools & Platforms</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Core Languages & DSA</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" alt="C++, Java, Python, JavaScript, HTML, CSS" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/DSA-Problem%20Solving-2563EB?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend & Design</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,figma" alt="React, Tailwind CSS, Figma" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & Databases</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres" alt="FastAPI, MySQL, PostgreSQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Machine Learning</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Machine%20Learning-ML-EC4899?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Generative%20AI-GenAI-38BDF8?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧰 Tools & Collaboration</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 VidyaAI
-An AI-focused learning project exploring intelligent application development and AI integrations.
+### 🌐 01 — Club Website
 
-- **Focus:** AI integration, backend development, and application architecture.
-- **Technologies:** Python, AI/LLM integrations, and web development.
-- 🔗 [View Repository](https://github.com/Jaithawal-08/VidyaAI)
+An interactive college club website featuring smooth navigation, event announcements, club information cards, image galleries, and a responsive layout.
 
-### 🌱 Smart Agriculture IoT
-An IoT-based agriculture project designed to monitor environmental conditions and soil moisture.
+**Tech Stack:** React · Tailwind CSS · HTML · CSS · JavaScript · JSX
 
-- **Features:** Soil moisture monitoring and temperature/humidity sensing.
-- **Hardware:** ESP32, soil moisture sensor, and DHT22.
-- **Focus:** Sensor data collection, IoT integration, and monitoring dashboards.
+<p>
+  <a href="https://club-website-zoue.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-00D9F5?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
 
-### 🌐 Personal Portfolio
-My personal portfolio showcasing my developer profile, skills, and work.
+### 💰 02 — Splitvilla
 
-- 🔗 [Visit My Portfolio](https://my-portfolio-j8l4.vercel.app/)
+A personal money-splitting and expense-tracking web application. Users enter expenses and participants, and the application calculates fair shares to help simplify group expenses.
 
-### 🏛️ Abhyudaya Club Website
-A modern web experience built around an interactive club website.
+**Tech Stack:** HTML · CSS · JavaScript · LocalStorage
 
-- **Technologies:** React, Vite, and Three.js.
-- **Focus:** Interactive UI, visual design, and frontend development.
+<p>
+  <a href="https://splitvilla.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-> Explore my GitHub repositories for more projects and ongoing experiments.
+<p align="center">
+  <a href="https://my-portfolio-j8l4.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 DSA Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=450%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Practicing+DSA+Every+Day+%F0%9F%A7%A0;Learning+New+Patterns+%F0%9F%92%BB;Consistency+Over+Shortcuts+%E2%9A%A1" alt="DSA Journey" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=450%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Learning+New+Patterns+%F0%9F%A7%A0;Improving+Problem+Solving+Every+Day+%F0%9F%9A%80" alt="DSA Journey" />
 </p>
 
-### 📚 Topics I'm Practicing
+### 📚 Topics
 
 <p align="center">
-  `Arrays` • `Strings` • `Two Pointers` • `Sliding Window`
+  <code>Arrays</code> · <code>Strings</code> · <code>Binary Search</code> · <code>Linked Lists</code>
 </p>
 <p align="center">
-  `Binary Search` • `Linked Lists` • `Stacks` • `Queues`
+  <code>Stacks</code> · <code>Queues</code> · <code>Recursion</code> · <code>Backtracking</code>
 </p>
 <p align="center">
-  `Recursion` • `Backtracking` • `Trees` • `BST`
+  <code>Trees</code> · <code>Graphs</code> · <code>Greedy</code> · <code>Heaps</code>
 </p>
 <p align="center">
-  `Graphs` • `Greedy` • `Heaps` • `Tries`
-</p>
-<p align="center">
-  `Dynamic Programming` • `Disjoint Set Union` • `SQL`
+  <code>Dynamic Programming</code> · <code>Tries</code> · <code>DSU</code> · <code>SQL</code>
 </p>
 
 <p align="center">
@@ -171,19 +189,13 @@ A modern web experience built around an interactive club website.
 
 <p align="center">
   <a href="https://leetcode.com/u/Jai_thawal/">
-    <img src="https://leetcard.jacoblin.cool/Jai_thawal?theme=dark&font=baloo&ext=activity" width="500" alt="LeetCode activity statistics" />
+    <img src="https://leetcard.jacoblin.cool/Jai_thawal?theme=dark&font=baloo&ext=activity" width="500" alt="LeetCode activity" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Jai_thawal/">
-    <img src="https://leetcard.jacoblin.cool/Jai_thawal?theme=dark&font=baloo&ext=contest" width="500" alt="LeetCode contest statistics" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Jai_thawal/">
-    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -193,11 +205,11 @@ A modern web experience built around an interactive club website.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaithawal-08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
-  <img src="https://streak-stats.demolab.com/?user=Jaithawal-08&theme=tokyonight&hide_border=true" height="170" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Jaithawal-08&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaithawal-08&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaithawal-08&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
@@ -230,5 +242,5 @@ A modern web experience built around an interactive club website.
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! Let's connect and build something meaningful. 🚀</i>
+  <i>Thanks for visiting my profile! Keep learning and keep building. 🚀</i>
 </p>
