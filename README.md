@@ -51,9 +51,9 @@
 │                                                            │
 │   $ tech_focus                                             │
 │   ├─ C++ & Problem Solving                                 │
-│   ├─ React & Modern Frontend Development                   │
+│   ├─ React & Tailwind                    │
 │   ├─ Python & FastAPI                                      │
-│   └─ PostgreSQL & Machine Learning                         │
+│   └─ Artificial Intelligence & Machine Learning                         │
 │                                                            │
 │   $ mission                                                │
 │   └─ Build useful software and keep improving every day    │
