@@ -112,10 +112,6 @@
     <img src="https://img.shields.io/badge/Generative%20AI-GenAI-38BDF8?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
     <img src="https://img.shields.io/badge/Agentic%20AI-Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
   </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-    <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-2E8B57?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  </p>
 </td>
   </tr>
   <tr>
