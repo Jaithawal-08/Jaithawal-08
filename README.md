@@ -102,13 +102,21 @@
         <img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres" alt="FastAPI, MySQL, PostgreSQL" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI & Machine Learning</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Machine%20Learning-ML-EC4899?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Generative%20AI-GenAI-38BDF8?style=for-the-badge" />
-      </p>
-    </td>
+   <td width="50%" valign="top">
+  <h3>🤖 AI, Machine Learning & Agentic AI</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,sklearn" alt="Python and Scikit-learn" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Machine%20Learning-ML-EC4899?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Generative%20AI-GenAI-38BDF8?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+    <img src="https://img.shields.io/badge/Agentic%20AI-Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+    <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-2E8B57?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  </p>
+</td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
